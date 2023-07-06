@@ -16,11 +16,11 @@ Sandwhiteleaf is a lightweight, fast, and versatile Go library for creating mode
 
 To get started with Sandwhiteleaf, please refer to the [Installation Guide](https://github.com/seu-usuario/Sandwhiteleaf/wiki/Installation-Guide) in the wiki.
 
-Check out the [Examples](https://github.com/seu-usuario/Sandwhiteleaf/tree/main/examples) directory to see some sample applications built with Sandwhiteleaf.
+Check out the [Examples](https://github.com/NervousGroove/Sandwhiteleaf/tree/main/examples) directory to see some sample applications built with Sandwhiteleaf.
 
 ## Documentation
 
-For detailed documentation on how to use Sandwhiteleaf, refer to the [Official Documentation](https://github.com/seu-usuario/Sandwhiteleaf/wiki).
+For detailed documentation on how to use Sandwhiteleaf, refer to the [Official Documentation](https://github.com/NervousGroove/Sandwhiteleaf/wiki).
 
 ## License
 
