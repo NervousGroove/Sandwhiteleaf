@@ -38,6 +38,6 @@ Sandwhiteleaf was created by SwankyNoob, an indie developer passionate about cre
 
 For any inquiries or feedback, please contact the developer:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- Email: [swankynoob@swankycloud.io](mailto:your-email@example.com)
+- Twitter: [@swankynoob](https://twitter.com/your-twitter-handle)
 
