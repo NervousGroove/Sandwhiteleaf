@@ -14,12 +14,17 @@ Sleaf was created individually by Wesley Yan Soares Brehmer (abbreviated as Yan)
 ## ⚖️ LICENSE
 Sandwhiteleaf is under the restrictive license CS-WPD. It is strongly recommended to read the entire license before developing with Sleaf.
 
+# 💸 Donate today! Help this project stay alive
+You can help/support this project/repository and help SwankyNoob maintain this and all other amazing projects of our developer, with any amount of ETH! The existence of this project depends on you, donate today! No matter the amount, every donation helps a lot! OUR ADDRESS TO RECEIVE ETHEREUM (METAMASK):
+```text
+0x17352A0e682dAFa233C83f15C902C86Ba7EB5B65
+```
+
 ## 🔗 NO CONTRIBUTIONS
 Sandwhiteleaf does not accept contributions, and has its code limited to modifications. You cannot modify Sleaf's source code and distribute it. It is important to read the license before anything.
 
 ## 📦 How to Install
-You can install Sandwhiteleaf from Sleafdocks, the official Sandwhiteleaf release manager. To download Sleafdocks, you can go to "https://sleafdocks.github.io".
-You can access the instructions to install Sandwhiteleaf:
+You can install Sandwhiteleaf from Sleafdocks, the official Sandwhiteleaf release manager.
 
 1. Access [Sleafdocks](https://nervousgroove.github.io/Sandwhiteleaf/root/docks.html)
 
