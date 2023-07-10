@@ -21,21 +21,15 @@ Sandwhiteleaf does not accept contributions, and has its code limited to modific
 You can install Sandwhiteleaf from Sleafdocks, the official Sandwhiteleaf release manager. To download Sleafdocks, you can go to "https://sleafdocks.github.io".
 You can access the instructions to install Sandwhiteleaf:
 
-1. Download Sleafdocks
+1. Access [Sleafdocks](https://nervousgroove.github.io/Sandwhiteleaf/root/docks.html)
 
-2. Run the installer
+2. Click on "Install Sandwhiteleaf" and then "Download"
 
-3. Finish the installer steps
+3. Choose a version of Sandwhiteleaf (it is recommended to choose the latest) for your operating system.
 
-4. Run Sleafdocks
+4. Wait for the Sandwhiteleaf .ZIP to download
 
-5. Select the version of Sandwhiteleaf to be installed (It is recommended to choose the latest one)
-
-6. Wait for Sandwhiteleaf to download
-
-7. Run the Sandwhiteleaf installer
-
-8. Finish the installer and you're done!
+5. Extract into a folder of your choice and you're done :)
 
 ## 📖 Documentation
 You can access Sandwhiteleaf's official documentation by clicking HERE or LOGGING IN:
