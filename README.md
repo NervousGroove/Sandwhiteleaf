@@ -10,6 +10,7 @@ Sandwhiteleaf (or Sleaf for short), is a high-level language developed by the CE
 - **Created with affection and dedication:**
 Sleaf was created individually by Wesley Yan Soares Brehmer (abbreviated as Yan), and does not accept contributions, that is, it was created entirely by one person.
 - **Expandable:** Sandwhiteleaf has a vast collection of built-in libraries that can be used to implement amazing features in your apps.
+- **All power with all ease:** Sandwhiteleaf is being developed with Go, Python and C++, and filters all the strengths of these languages and improves them, leaving the weaknesses aside, and creating a unique and powerful language.
 
 ## ⚖️ LICENSE
 Sandwhiteleaf is under the restrictive license CS-WPD. It is strongly recommended to read the entire license before developing with Sleaf.
