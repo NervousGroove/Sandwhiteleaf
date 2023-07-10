@@ -1,1 +1,2 @@
-Contributions at Sandwhiteleaf are welcome. Create **pull requests** and help this project grow! Make improvements, fixes and add new features!
+Sandwhiteleaf is not Open-Source. Users are free to program, but Sandwhiteleaf's source code is not open-source. But don't worry, there are no fees or royalties from SwankyNoob, create your project, distribute it and enjoy it however you want.
+
