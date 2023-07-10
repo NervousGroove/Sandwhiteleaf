@@ -1,43 +1,41 @@
-# Sandwhiteleaf
+# Sandwhiteleaf 
+Sandwhiteleaf (or Sleaf for short), is a high-level language developed by the CEO/Founder of Brazilian indie developer SwankyNoob that aims to be easy, fast, lightweight and broad, and can be run on any platform, since it is cross-platform. Sleaf is dedicated for both back-end and front-end. Sandwhiteleaf is under CS-WPD (Closed Source Withholding of Partial Distribution) license and applies to SwankyNoob terms. 
 
-[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/seu-usuario/Sandwhiteleaf/blob/main/LICENSE)
+## 🎯 Key Features
+**Ease of use: Sandwhiteleaf is really easy, and can be used by both beginners and professionals, and its use is targeted at both individuals and teams.
+**Cross-platform: Sandwhiteleaf is supported on various platforms/systems like Windows, Linux and macOs.
+**VSCODE Integration: Sleaf has its own official extension in Visual Studio Code, and provides formatting, debugging, compilation and more.
+**Fast and Lightweight:** Sandwhiteleaf is extremely fast and lightweight, which is great for developing any application.
+**Close-knit and Active Community:** Sleaf has a large community and lots of content to learn the language. In addition, Sleaf's documentation is always up-to-date and full of practical and theoretical examples.
+**Created with affection and dedication:**
+Sleaf was created individually by Wesley Yan Soares Brehmer (abbreviated as Yan), and does not accept contributions, that is, it was created entirely by one person.
+**Expandable:** Sandwhiteleaf has a vast collection of built-in libraries that can be used to implement amazing features in your apps.
 
-Sandwhiteleaf is a lightweight, fast, and versatile Go library for creating modern GUIs in Go. It provides a Python binding for easy integration and is designed to offer a seamless experience for developers.
+## ⚖️ LICENSE
+Sandwhiteleaf is under the restrictive license CS-WPD. It is strongly recommended to read the entire license before developing with Sleaf.
 
-## Features
+## 🔗 NO CONTRIBUTIONS
+Sandwhiteleaf does not accept contributions, and has its code limited to modifications. You cannot modify Sleaf's source code and distribute it. It is important to read the license before anything.
 
-- Easy-to-use API for building modern graphical user interfaces in Go
-- Python binding for convenient usage and integration
-- Lightweight and fast performance
-- Wide range of GUI elements and components
-- Unlimited possibilities for customization and extensibility
+## 📦 How to Install
+You can install Sandwhiteleaf from Sleafdocks, the official Sandwhiteleaf release manager. To download Sleafdocks, you can go to "https://sleafdocks.github.io".
+You can access the instructions to install Sandwhiteleaf:
 
-## Getting Started
+1. Download Sleafdocks
 
-To get started with Sandwhiteleaf, please refer to the [Installation Guide](https://github.com/seu-usuario/Sandwhiteleaf/wiki/Installation-Guide) in the wiki.
+2. Run the installer
 
-Check out the [Examples](https://github.com/NervousGroove/Sandwhiteleaf/tree/main/examples) directory to see some sample applications built with Sandwhiteleaf.
+3. Finish the installer steps
 
-## Documentation
+4. Run Sleafdocks
 
-For detailed documentation on how to use Sandwhiteleaf, refer to the [Official Documentation](https://github.com/NervousGroove/Sandwhiteleaf/wiki).
+5. Select the version of Sandwhiteleaf to be installed (It is recommended to choose the latest one)
 
-## License
+6. Wait for Sandwhiteleaf to download
 
-Sandwhiteleaf is licensed under the BSD-3-Clause license. See the [LICENSE](https://github.com/seu-usuario/Sandwhiteleaf/blob/main/LICENSE) file for more details.
+7. Run the Sandwhiteleaf installer
 
-## Contributing
+8. Finish the installer and you're done!
 
-Contributions are welcome! If you would like to contribute to Sandwhiteleaf, please follow the guidelines in [CONTRIBUTING.md](https://github.com/seu-usuario/Sandwhiteleaf/blob/main/CONTRIBUTING.md).
-
-## About the Author
-
-Sandwhiteleaf was created by SwankyNoob, an indie developer passionate about creating innovative and user-friendly software solutions.
-
-## Contact
-
-For any inquiries or feedback, please contact the developer:
-
-- Email: [swankynoob@swankycloud.io](mailto:your-email@example.com)
-- Twitter: [@swankynoob](https://twitter.com/your-twitter-handle)
-
+## 📖 Documentation
+You can access Sandwhiteleaf's official documentation by clicking HERE or LOGGING IN:
