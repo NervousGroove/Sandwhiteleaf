@@ -39,5 +39,5 @@ You can install Sandwhiteleaf from Sleafdocks, the official Sandwhiteleaf releas
 ## 📖 Documentation
 You can access Sandwhiteleaf's official documentation by clicking [HERE](https://github.com/NervousGroove/Sandwhiteleaf/wiki/Docs) or ACESSING:
 ```text
-[0x17352A0e682dAFa233C83f15C902C86Ba7EB5B65](https://github.com/NervousGroove/Sandwhiteleaf/wiki/Docs)https://github.com/NervousGroove/Sandwhiteleaf/wiki/Docs
+https://github.com/NervousGroove/Sandwhiteleaf/wiki/Docs
 ```
