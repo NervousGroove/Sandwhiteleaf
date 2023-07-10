@@ -1,28 +1,13 @@
-BSD 3-Clause License
+CS-WPD License (Version 1.0)
 
-Copyright (c) 2023, Wesley Yan Soares Brehmer
+Permissions:
+1. The source code of the "Sandwhiteleaf" programming language (hereinafter referred to as "the Software") may be distributed in any format or medium, provided that proper credits are given to the original authors ("Sandwhiteleaf" and "SwankyNoob Inc.") and "Wesley Yan Soares Brehmer".
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Restrictions:
+1. If the source code of the Software is modified in any way, distribution of the modified source code is prohibited.
+2. When distributing the Software (without modification), it is mandatory to include proper credits to the original authors ("Sandwhiteleaf" and "SwankyNoob Inc.") and "Wesley Yan Soares Brehmer".
+3. It is not permitted to impose legal terms or technological measures that legally restrict others from doing anything the license permits or prohibits.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Final Provisions:
+1. This license allows for commercial use of the Software, provided that proper credits are given to the original authors.
+2. This license is provided without warranties, and the authors disclaim any liability for damages or liabilities arising from the use of the Software.
